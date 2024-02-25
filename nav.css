@@ -1,0 +1,8 @@
+#logoMenu{
+    width: 4em !important;
+}
+
+img.logoMenu {
+    width: auto;
+    box-sizing: border-box;
+}
